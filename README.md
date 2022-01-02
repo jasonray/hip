@@ -11,7 +11,7 @@ Request Model:
 
 Lambda: https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions/SimplePatientSearch?newFunction=true&tab=code
 HTTP API: https://us-east-1.console.aws.amazon.com/apigateway/main/api-detail?api=sel9ozjvgl&region=us-east-1#
-
+Endpoint: https://sel9ozjvgl.execute-api.us-east-1.amazonaws.com/default/SimplePatientSearch
 
 
 # Lambda: pull queries params from request
