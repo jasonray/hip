@@ -21,6 +21,16 @@ Lambda: https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions/S
     }
 ```
 
+# Lambda: create test lambda event with query params
+```
+{
+  "queryStringParameters": {
+    "name": "Mighty Pulpo",
+    "city": "Virginia"
+  }
+}
+```
+
 # Lambda: build response
 ```
     let response = {
